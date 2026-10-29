@@ -1,0 +1,8 @@
+# Format: Nama Siswa, Nilai Ujian
+Ayu, 85
+Budi, 70
+Citra, 92
+Dedi, 60
+Eka, 78
+Fajar, 88
+Gita, 95
